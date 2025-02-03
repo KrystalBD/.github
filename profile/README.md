@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+**Krystal Bangladesh** is focused to develop software that helps to maintain the business easiliy.
+
+### Products
+Will be added soon.
+
+### Developers
+- [Rezaul Karim Shaon](https://github.com/rkshaon)
+- [Md Rifat Hossain](https://github.com/rifatakhon)
+
 <!--
 
 **Here are some ideas to get you started:**
